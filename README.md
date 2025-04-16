@@ -5,6 +5,6 @@ This repository contains an in-depth analysis of customer purchase data using Py
 
 ### Data Preprocessing
 
-### EDA
+#### EDA
 
 ## Findings
